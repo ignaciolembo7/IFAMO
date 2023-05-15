@@ -1,0 +1,39 @@
+# Fdb version 4
+["bibtex build/apstemplate"] 1683518752 "build/apstemplate.aux" "build/apstemplate.bbl" "build/apstemplate" 1683518752 0
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/bibtex/bst/revtex/apsrev4-2.bst" 1601735216 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
+  "basenameof.bibfile.bib" 0 -1 0 ""
+  "build/apstemplate.aux" 1683518751 465 b9874450ebd467d4dc2aea84ffa673a1 "pdflatex"
+  "c:/Users/Ignacio Lembo/Documents/GitHub/IFAMO/revtex-tds-2020-10-22/revtex-tds/doc/latex/revtex/sample/aps/build/apstemplateNotes.bib" 1683518751 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
+  (generated)
+  "build/apstemplate.bbl"
+  "build/apstemplate.blg"
+  (rewritten before read)
+["pdflatex"] 1683518750 "c:/Users/Ignacio Lembo/Documents/GitHub/IFAMO/revtex-tds-2020-10-22/revtex-tds/doc/latex/revtex/sample/aps/apstemplate.tex" "build/apstemplate.pdf" "apstemplate" 1683518752 0
+  "C:/Users/Ignacio Lembo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1683518026 360492 1c314e45994bee332ec23771c49b6a80 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1673226111 23172417 6be0a31137edbce823972e402596c926 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1666810012 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/natbib/natbib.sty" 1292249081 46712 1c8843383c0bd05870c45fa0ebea6cc2 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/aps12pt4-2.rtx" 1601735216 4804 2744af0f203134af90d666c0e5372e88 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/aps4-2.rtx" 1601735216 16394 70d763ac62ae39970cd00e2bd57d0404 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revsymb4-2.sty" 1601735216 5568 c1023e561e6863a1ddb7cd695a7eb4ce ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revtex4-2.cls" 1601735216 202588 252d8ad05b878c573f3e2adfc38ce076 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty" 1657800947 2405 93dca770d0598d835703b5d004a641b7 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "apstemplate.tex" 1683518723 5754 6838281b84de78c96694c4c5177996ed ""
+  "build/apstemplate.aux" 1683518751 465 b9874450ebd467d4dc2aea84ffa673a1 "pdflatex"
+  "build/apstemplate.bbl" 0 -1 0 "bibtex build/apstemplate"
+  "c:/Users/Ignacio Lembo/Documents/GitHub/IFAMO/revtex-tds-2020-10-22/revtex-tds/doc/latex/revtex/sample/aps/apstemplate.tex" 1683518723 5754 6838281b84de78c96694c4c5177996ed ""
+  (generated)
+  "build/apstemplate.aux"
+  "build/apstemplate.log"
+  "build/apstemplate.pdf"
+  "build/apstemplateNotes.bib"
+  (rewritten before read)

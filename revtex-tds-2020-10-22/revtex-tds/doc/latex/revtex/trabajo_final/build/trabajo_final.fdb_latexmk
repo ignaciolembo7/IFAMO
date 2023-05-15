@@ -1,0 +1,41 @@
+# Fdb version 4
+["bibtex build/trabajo_final"] 1683519661 "build/trabajo_final.aux" "build/trabajo_final.bbl" "build/trabajo_final" 1683519661 0
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/bibtex/bst/revtex/apsrev4-2.bst" 1601735216 69609 e9dea59f0e753ccda3ddc8f5806d846d ""
+  "basenameof.bibfile.bib" 0 -1 0 ""
+  "build/trabajo_final.aux" 1683519660 551 7a866543975708f178bd90d0468fa595 "pdflatex"
+  "c:/Users/Ignacio Lembo/Documents/GitHub/IFAMO/revtex-tds-2020-10-22/revtex-tds/doc/latex/revtex/trabajo_final/build/trabajo_finalNotes.bib" 1683519660 104 4d8bb863c86f3d7b03a471e9d4707f34 ""
+  (generated)
+  "build/trabajo_final.bbl"
+  "build/trabajo_final.blg"
+  (rewritten before read)
+["pdflatex"] 1683519659 "c:/Users/Ignacio Lembo/Documents/GitHub/IFAMO/revtex-tds-2020-10-22/revtex-tds/doc/latex/revtex/trabajo_final/trabajo_final.tex" "build/trabajo_final.pdf" "trabajo_final" 1683519661 0
+  "C:/Users/Ignacio Lembo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1683518026 360492 1c314e45994bee332ec23771c49b6a80 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1673226111 23172417 6be0a31137edbce823972e402596c926 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx9.tfm" 1136765053 1328 5442e22a7072966dbaf88ca900acf3f0 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr9.tfm" 1136765053 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti9.tfm" 1136765053 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1247596667 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb" 1247596667 36310 f5ddc6715cc60deb16d9db5ded6a9391 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1666810012 30426 f2fb69fcda4dc35ed0b7dee211bce679 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/natbib/natbib.sty" 1292249081 46712 1c8843383c0bd05870c45fa0ebea6cc2 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/aps10pt4-2.rtx" 1601735216 4720 0c32750dc3747430d8ac8496b3e78efb ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/aps4-2.rtx" 1601735216 16394 70d763ac62ae39970cd00e2bd57d0404 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revsymb4-2.sty" 1601735216 5568 c1023e561e6863a1ddb7cd695a7eb4ce ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/revtex/revtex4-2.cls" 1601735216 202588 252d8ad05b878c573f3e2adfc38ce076 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/textcase/textcase.sty" 1657800947 2405 93dca770d0598d835703b5d004a641b7 ""
+  "C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "build/trabajo_final.aux" 1683519660 551 7a866543975708f178bd90d0468fa595 "pdflatex"
+  "build/trabajo_final.bbl" 0 -1 0 "bibtex build/trabajo_final"
+  "c:/Users/Ignacio Lembo/Documents/GitHub/IFAMO/revtex-tds-2020-10-22/revtex-tds/doc/latex/revtex/trabajo_final/trabajo_final.tex" 1683519659 6054 b567e7098cecc7b78a5dc4140dd5f5d7 ""
+  "trabajo_final.tex" 1683519659 6054 b567e7098cecc7b78a5dc4140dd5f5d7 ""
+  (generated)
+  "build/trabajo_final.aux"
+  "build/trabajo_final.log"
+  "build/trabajo_final.pdf"
+  "build/trabajo_finalNotes.bib"
+  (rewritten before read)
