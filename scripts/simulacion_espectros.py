@@ -48,13 +48,13 @@ def lorentzian(x, AOHn, AOHh, G, I1, y0, a1):
 fig, axes = plt.subplots(nrows=2, ncols=2, figsize=(8, 6), gridspec_kw={'width_ratios': [2, 1], 'height_ratios': [1, 1]})
 
 # Cargar y mostrar la primera imagen PNG en la subfigura 1
-img1 = mpimg.imread('DMPOOH.png')
+img1 = mpimg.imread('DMPO-OH.png')
 axes[0, 1].imshow(img1)
 axes[0, 1].axis('off')  # Opcional: ocultar los ejes
 axes[0, 1].set_title('DMPO-OH')
 
 # Cargar y mostrar la segunda imagen PNG en la subfigura 2
-img2 = mpimg.imread('DMPOCH3.png')
+img2 = mpimg.imread('DMPO-CH3.png')
 axes[1, 1].imshow(img2)
 axes[1, 1].axis('off')  # Opcional: ocultar los ejes
 axes[1, 1].set_title(r'DMPO-CH$_3$')

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.8)  4 JUN 2023 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.8)  8 JUN 2023 00:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -282,11 +282,11 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \openout3 = `trabajo_finalNotes.bib'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
  (C:\Users\Ignacio Lembo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
  (C:\Users\Ignacio Lembo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{C:/Users/Ignacio Lembo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -294,54 +294,50 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: simulacion.pdf Graphic file (type pdf)
 <use simulacion.pdf>
 Package pdftex.def Info: simulacion.pdf  used on input line 193.
-(pdftex.def)             Requested size: 246.0pt x 184.49448pt.
- [2 <./simulacion.pdf>]
+(pdftex.def)             Requested size: 233.69925pt x 175.27107pt.
+ [2]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix] on input line 199.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 218--219
 []\OT1/cmr/m/n/10 Finalmente, de la condici^^Son de res-o-nan-cia
  []
 
-<spliteo.pdf, id=88, 201.26392pt x 163.542pt>
+<spliteo.pdf, id=30, 201.26392pt x 163.542pt>
 File: spliteo.pdf Graphic file (type pdf)
 <use spliteo.pdf>
 Package pdftex.def Info: spliteo.pdf  used on input line 229.
-(pdftex.def)             Requested size: 196.80075pt x 159.92569pt.
+(pdftex.def)             Requested size: 166.05075pt x 134.93628pt.
 
 Underfull \hbox (badness 1939) in paragraph at lines 237--238
 []\OT1/cmr/m/n/10 Los ex-per-i-men-tos se ll-e-varon a cabo en un es-
  []
 
-[3 <./spliteo.pdf>]
-<ajuste_un_radical_lorentzian_10min.pdf, id=110, 650.43pt x 433.62pt>
+[3 <./simulacion.pdf> <./spliteo.pdf>]
+<ajuste_un_radical_lorentzian_10min.pdf, id=111, 650.43pt x 433.62pt>
 File: ajuste_un_radical_lorentzian_10min.pdf Graphic file (type pdf)
 <use ajuste_un_radical_lorentzian_10min.pdf>
 Package pdftex.def Info: ajuste_un_radical_lorentzian_10min.pdf  used on input line 254.
 (pdftex.def)             Requested size: 233.69925pt x 155.79872pt.
-<ajuste_dos_radicales_lorentzian_40min.pdf, id=111, 650.43pt x 433.62pt>
+<ajuste_dos_radicales_lorentzian_40min.pdf, id=112, 650.43pt x 433.62pt>
 File: ajuste_dos_radicales_lorentzian_40min.pdf Graphic file (type pdf)
 <use ajuste_dos_radicales_lorentzian_40min.pdf>
 Package pdftex.def Info: ajuste_dos_radicales_lorentzian_40min.pdf  used on input line 261.
 (pdftex.def)             Requested size: 233.69925pt x 155.79872pt.
- (c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.bbl
-c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.bbl:135: Not loaded.
-\selectlanguage ...ing it}\errmessage {Not loaded}
-                                                  
-l.135   applications}}}}
-                        ,\ \bibinfo {edition} {second edition}\ ed.,\ A {John}
-Selecting a language requires a package supporting it
-
-) [4 <./ajuste_un_radical_lorentzian_10min.pdf> <./ajuste_dos_radicales_lorentzian_40min.pdf>] (c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.aux) ) 
+ (c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.bbl [4 <./ajuste_un_radical_lorentzian_10min.pdf> <./ajuste_dos_radicales_lorentzian_40min.pdf>]) [5] (c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.aux) ) 
 Here is how much of TeX's memory you used:
- 5255 strings out of 476406
- 79590 string characters out of 2785756
- 1879787 words of memory out of 3000000
- 25543 multiletter control sequences out of 15000+600000
- 523286 words of font info for 72 fonts, out of 8000000 for 9000
+ 5291 strings out of 476406
+ 80067 string characters out of 2785756
+ 1880787 words of memory out of 3000000
+ 25571 multiletter control sequences out of 15000+600000
+ 527673 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,1212b,318s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on "c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.pdf" (4 pages, 396800 bytes).
+ 55i,8n,62p,1254b,356s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Ignacio Lembo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on "c:\Users\Ignacio Lembo\Documents\GitHub\IFAMO\revtex-tds-2020-10-22\revtex-tds\doc\latex\revtex\trabajo_final\build\trabajo_final.pdf" (5 pages, 423552 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
+ 320 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
